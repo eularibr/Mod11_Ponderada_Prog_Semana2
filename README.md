@@ -164,14 +164,14 @@ O modelo foi reavaliado com os melhores hiperparâmetros identificados. Após o 
 
 #### 7. **Comparação dos Resultados**
 
-# Sem Hiperparâmetros:
+#### Sem Hiperparâmetros:
 
 <p align="center">
   <img src="https://github.com/eularibr/Mod11_Ponderada_Prog_Semana2/blob/main/assets/com_hiperparametros.png" alt="Descrição da Imagem" width="400" />
 </p>
 
 
-# Com Hiperparâmetros:
+#### Com Hiperparâmetros:
 
 <p align="center">
   <img src="https://github.com/eularibr/Mod11_Ponderada_Prog_Semana2/blob/main/assets/sem_hiperparametros.png" alt="Descrição da Imagem" width="400" />
