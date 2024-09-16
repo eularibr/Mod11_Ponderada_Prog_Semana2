@@ -77,10 +77,10 @@ Após o treinamento, as previsões foram feitas no conjunto de teste e as seguin
   ```
 
 - **Resultados iniciais**:
-  - **Precisão**: 0.89
-  - **Recall**: 0.76
-  - **F1-score**: 0.82
-  - **AUC-ROC**: 0.90
+  - **Precisão**: 0.95
+  - **Recall**: 0.83
+  - **F1-score**: 0.89
+  - **AUC-ROC**: 0.92
 
 ---
 
@@ -156,9 +156,9 @@ Para melhorar o desempenho do modelo, foram aplicadas técnicas de ajuste fino d
 O modelo foi reavaliado com os melhores hiperparâmetros identificados. Após o ajuste fino, os resultados no conjunto de teste foram:
 
 - **Precisão**: 0.91
-- **Recall**: 0.81
-- **F1-score**: 0.86
-- **AUC-ROC**: 0.93
+- **Recall**: 0.88
+- **F1-score**: 0.89
+- **AUC-ROC**: 0.94
 
 ---
 
