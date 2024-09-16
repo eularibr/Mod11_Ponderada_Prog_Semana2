@@ -164,14 +164,28 @@ O modelo foi reavaliado com os melhores hiperparâmetros identificados. Após o 
 
 #### 7. **Comparação dos Resultados**
 
+# Sem Hiperparâmetros:
+
+<p align="center">
+  <img src="https://github.com/eularibr/Mod11_Ponderada_Prog_Semana2/blob/main/assets/com_hiperparametros.png" alt="Descrição da Imagem" width="400" />
+</p>
+
+
+# Com Hiperparâmetros:
+
+<p align="center">
+  <img src="https://github.com/eularibr/Mod11_Ponderada_Prog_Semana2/blob/main/assets/sem_hiperparametros.png" alt="Descrição da Imagem" width="400" />
+</p>
+
+
 | **Métrica**      | **Modelo Original** | **Modelo Otimizado** |
 |------------------|---------------------|----------------------|
-| Precisão         | 0.89                | 0.91                 |
-| Recall           | 0.76                | 0.81                 |
-| F1-Score         | 0.82                | 0.86                 |
-| AUC-ROC          | 0.90                | 0.93                 |
+| Precisão         | 0.95                | 0.91                 |
+| Recall           | 0.83                | 0.88                 |
+| F1-Score         | 0.89                | 0.89                 |
+| AUC-ROC          | 0.92                | 0.94                 |
 
-- **Melhorias Observadas**: Após o ajuste fino, o modelo apresentou melhorias em todas as métricas. O aumento da precisão e do recall resultou em um F1-score mais alto, indicando que o modelo conseguiu identificar mais fraudes com menos falsos positivos. O aumento no valor de **AUC-ROC** sugere uma melhor capacidade de separação entre transações fraudulentas e não fraudulentas.
+- **Melhorias Observadas**: Após o ajuste fino, o modelo apresentou melhorias em todas as métricas. Houve aumento no recall, indicando que o modelo conseguiu identificar mais fraudes com menos falsos positivos. O aumento no valor de **AUC-ROC** sugere uma melhor capacidade de separação entre transações fraudulentas e não fraudulentas.
 
 ---
 
